@@ -16,10 +16,9 @@ Note: If you are coding along with the video, we suggest you open the video in a
 #### Using this template, you will be able to practice the following:
 - Code a `for loop` that performs a repetitive task.
 - Use a JavaScript method to make our counter variable `i` visible in our `for loop`.
-- Usea `for loop`to calculate the sum of a set of numbers.
-
+- Use a `for loop`to calculate the sum of a set of numbers.
 
 
 #### Get Started:
-- Click on the file named "script.js" to get started.
+- Click on the file named `script.js` to get started.
 

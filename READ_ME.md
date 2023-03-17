@@ -1,4 +1,4 @@
-# JavaScript Lesson 1.3 Code Along Template 
+# JavaScript Lesson 1.3 Code Along Template - Loops
 
 ### Welcome! 
 
